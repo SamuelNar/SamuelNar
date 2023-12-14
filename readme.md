@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Narvaja Torres</h1>
-<h3 align="center">Hello, I am a full-stack programmer living in Argentina. I am a student in the computer analysis program.</h3>
+<h3 align="center">Hi, I'm a full-stack programmer living in Argentina. I am a student of computational analysis at the Universidad Nacional De Rio Cuarto</h3>
 
 - 📫 How to reach me **samuel.narvaja.torres@gmail.com**
 
