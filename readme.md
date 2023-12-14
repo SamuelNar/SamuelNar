@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/samuel.narvaja/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
+  <img target="_blank" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
   </a>
 <a href="https://wa.link/ns507t">
   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg">
